@@ -1,0 +1,25 @@
+Git Commands to Push ur Code/Directory to Github
+
+->Go to Directory
+
+->git init
+
+->git status
+
+->git add <file-name>(if u want to add all use .)
+or
+Example:
+->git add .
+
+->git status
+
+->git commit -m "my commit 01"
+
+->git remote add origin <URL>
+Example:
+->git remote add origin https://github.com/abhisheksinghf/C-Programming.git
+
+->git push -u origin master
+
+Your Code Will be Pushed to GitHub
+//By @yourcodepartner @abhisheksingh_r_f
